@@ -27,6 +27,6 @@ public class Tarea3 {
         System.out.println("****"+nombre+"****");
     }
     void preciosPlatos(){
-        System.out.println(" ***los precios para el dia de hoy*** "+precio1+" "+precio2+" "+precio3);
+        System.out.println(" ***/los precios para el dia de hoy/*** "+precio1+" "+precio2+" "+precio3);
     }
 }

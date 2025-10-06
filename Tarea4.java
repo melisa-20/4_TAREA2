@@ -21,6 +21,6 @@ public class Tarea4 {
         System.out.println("me gua mucho el "+comida);
     }
     void yo(){
-        System.out.println("soy de raza** ");
+        System.out.println("soy de raza** "+raza);
     }
 }
